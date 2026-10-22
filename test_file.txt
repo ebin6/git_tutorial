@@ -1,1 +1,4 @@
-This is sample file for git 
+This is sample file for git .
+Commands :
+   git config --global user.name "ebin6"
+   git config --global user.email "ebin.oneteam@gmail.com"
