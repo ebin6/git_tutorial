@@ -2,3 +2,14 @@ This is sample file for git .
 Commands :
    git config --global user.name "ebin6"
    git config --global user.email "ebin.oneteam@gmail.com"
+
+
+To initialize git 
+   git init
+
+Track files 
+   git add .
+
+Commit 
+  git commit -m "message"
+
